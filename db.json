@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "email": "robson@gmail.com",
+      "password": "$2a$10$Vgt4dN1l6I0HR7gO6aBsZuTcAwRaLxa.0hofKtpiir1zsH2alkAcS",
+      "name": "Robson",
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Caminhar",
+      "description": "Fazer caminhada diariamente",
+      "dueDate": "08-03-2024",
+      "priority": "média",
+      "status": "a fazer",
+      "userId": 1
+    }
+  ]
+}
